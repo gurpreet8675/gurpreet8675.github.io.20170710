@@ -1,2 +1,1 @@
-# gurpreet8675.github.io
-my portfolio
+this is the starting point for my portfolio
